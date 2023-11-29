@@ -16,6 +16,8 @@ Email: yingyot.chi@mahidol.edu
 ## Lecture 2
 - Source: [Ethics and Business (mahidol.ac.th)](https://muicelearning.mahidol.ac.th/pluginfile.php/100733/mod_resource/content/3/Week%202%20Situational%20Factors.pdf)
 - Fatigue
+	- [[Zettelkasten/Sleep deprivation has negative effects\|Sleep deprivation has negative effects]]
+	- [[Zettelkasten/Morning Morality Effect\|Morning Morality Effect]]
 - Transparency
 - Time pressure
 - Cleanliness
@@ -90,3 +92,20 @@ Assignment:
 
 # Lecture 9
 [[Zettelkasten/ICGH 126 - Lecture 9\|ICGH 126 - Lecture 9]]
+# Lecture 10
+[[Zettelkasten/ICGH 126 - Lecture 10\|ICGH 126 - Lecture 10]]
+
+
+___
+
+# Ideas
+-  [[Zettelkasten/Authority can influence you to do bad things\|Authority can influence you to do bad things]]
+- [[Zettelkasten/If a lot of people do something which is deemed bad, it is more likely to be done\|If a lot of people do something which is deemed bad, it is more likely to be done]]
+- [[Zettelkasten/Being more dirty leads to unethical behavior\|Being more dirty leads to unethical behavior]]
+- [[Zettelkasten/Clean environment leads to people acting more ethically\|Clean environment leads to people acting more ethically]]
+- [[Zettelkasten/Dishonesty is contagious\|Dishonesty is contagious]]
+- [[Zettelkasten/Graffiti leads to littering\|Graffiti leads to littering]]
+- [[Zettelkasten/Your body is linked to your mind\|Your body is linked to your mind]]
+
+## Experiments and Case Studies
+- [[Zettelkasten/Elevator conformity experiment\|Elevator conformity experiment]]
