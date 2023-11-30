@@ -143,7 +143,6 @@ People will behave more/less ethically depending on the action of others.
 > In the first few rounds most participants did not yield, but after a few more most participants would conform to the group's incorrect answer, even if they know full well that it is wrong.
 > 
 > It was also shown that when given a partner who would answer correctly as well (go against the group), the subject would be able to muster the courage to answer correctly.
-
 ### 2.2.1 Other people are doing it, why don't I
 
  If you know that other people are doing something unethical, you are more likely to do it as well, because you can justify it by saying that other people do it.
@@ -152,8 +151,6 @@ People will behave more/less ethically depending on the action of others.
 > At a national park, tourists often took petrified wood as a souvenir back (they are not supposed to). To combat this, a sign was put up, reading "There has been a lot of pilfering, please refrain". This had the opposite effect and it increased the pilfering by 300%. This happened because now people know that others are doing it.
 > 
 > The sign was then later changed to "Collecting petrified wood is prohibited" and that reduced pilfering.
-
-
 ### 2.2.2 In-Group vs Out-Group
 
 When people are in groups they are more likely to cater their ethical behavior to fit the group.
@@ -172,7 +169,6 @@ Subtle bonding is like linking one person to another in some way. Like, having b
 > Note: the bond was formed by the having the participant answer a questionnaire and telling them something like "Oh! You were born in the same month as \<insert name here>\"
 > 
 > As a result, the person they formed the subtle bond with was more likely to cheat as well.
-
 ### 2.2.4 Positive Conformity Bias
 
 Just like how conformity bias can influence you to do bad things, it can be used for good.
@@ -184,5 +180,66 @@ Knowing that others are doing something, then being questioned why *you* don't d
 > A sign was put up in a building saying "*Did you know? More than 90% of the time, people in this building uses the stairs instead of the elevator. Why not you?*". This decreased elevator usage by 46%.
 
 ___
-
 # 3. Cognitive Errors
+
+```ad-tldr
+title: Key points
+There are six main cognitive errors
+1. **Overconfidence**
+People tend to believe that they are more ethically than they actually are, which inclines them to make decisions with serious ethical implications.
+2. **Framing**
+People can have varying opinions about the exact same thing if it's framed differently and they tend to favor the one that is framed better.
+3. **Loss aversion**
+People hate losing assets, they will always try to minimize the chance of a loss.
+
+4. **Incrementalism**
+The slippery slope in which one gets used to minor wrong doings an does not notice when one gives way to major ones.
+
+5. **Tangible and abstract**
+People remember immediate and tangible factors at the expense of more remote and abstract factors.
+6. **Self serving bias**
+People gather/process information in a self-serving way and fail to see and/or object to unethical behavior that serves their self-interest.
+```
+
+___
+# 4. [[Zettelkasten/ICGH126 - Behavioral Ethics#Lecture 5 - See No Evil\|See No Evil]]
+
+```ad-tldr
+title: Key points
+
+1. **Motivated Blindness**
+A conflict of interest. You would be more biased based on the role you are given.
+
+2. **Indirectness**
+When you achieve some benefits by having someone else perform the unethical action for you instead of doing it yourself.
+
+3. **Slippery Slope**
+We fail to notice unethical behaviors if they are **gradual** changes.
+Think of the boiling frog syndrome.
+
+4. **Until bad things happen**
+It's not illegal if I don't get caught.
+```
+
+___
+# 5. Moral Hypocrisy
+
+```ad-tldr
+title: Key points
+Advocating moral principles, but do not behave accordingly. 
+Appearing to be moral without bearing the actual cost of being moral.
+```
+
+```ad-example
+title: Examples
+- Parents always tell us not to talk when we are eating dinner, but they also say "listen to me when I talk".
+- A supervisor always complain, telling us not to be late to work, stick to company rules, but they always come late.
+- There was an experiment to ask people who are smoking to offer a lighter to a kid who needs it for smoking. All the people which were asked did not offer the lighter and instead lectured the kid about why smoking is bad, listing all the harmful things about it. Then they were questioned why *they* smoke. They smoke despite knowing that it is super harmful and they wouldn't allow a kid to do it.
+```
+
+> [!question] How can people appear moral to themselves when they fail to act morally?
+> They either misperceive their own behavior as moral or they avoid comparing their own behavior with moral standards.
+## 5.1 Virtue
+
+> [!question] What is a good person? How do you know that a person is good?
+> If a man loves his family, makes sacrifices for society, but cheats the company he works for, is he a bad person? Is a person good if they are bad for 55 years of their life but then good for the last 5? What about if they’re good for 55 years but bad for the last 5? Food for thought.
