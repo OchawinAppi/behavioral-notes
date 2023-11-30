@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/icgh-126-behavioral-ethics/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/zettelkasten/icgh-126-behavioral-ethics/"}
 ---
 
 2023-09-21 15:18
