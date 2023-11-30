@@ -69,8 +69,33 @@ It was then shown that statistically, weeks with the pairs of eyes as the posted
 > [!question] Why would a picture of a pair of eyes affect the sum of money?
 > The posted image made people feel *seen*. When people feel seen they become more aware of their own doings and this causes them to behave more ethically.
 
+### 1.2.3 Case Study: Shame or Honor
+
+Participants were given money and asked to donate to the public. The caveat was that the identity of the participant who contributed the *most* would be revealed. In this case, it would be an *honor* to be acknowledged. Another group of participants were asked to do the same, but the caveat was different. For the second group the identity of the participant who donated to least would be revealed.
+
+> [!question] Which caveat was more effective?
+> As it turns out, both methods yielded similar results. There was not much difference.
 ## 1.3 Fatigue
 
+People are more likely to behave unethically under the effects of fatigue.
+It is a known fact that [[Zettelkasten/Sleep deprivation has negative effects\|sleep deprivation has negative effects]]. (less self control, more hostile, more deviant)
+
+### 1.3.1 Case Study: [[Zettelkasten/Morning Morality Effect\|Morning Morality]]
+
+Students were asked to perform visual tasks on computers then self report the results of their tests, with each correct answer being rewarded. Half of the students performed the test in the morning and the other half performed the test in the afternoon.
+
+> [!question] Which group lied more?
+> People cheated more in the afternoon. (about 20% - 50%)
 ## 1.4 Cleanliness
+
+People are more likely to behave unethically in a dirty environment.
+
+### 1.4.1 Case Study: Graffiti and Littering
+
+This experiment was conducted in a public bike parking area. After people left their bikes, a note would be attached onto their bicycle saying *'we wish everybody happy holidays'*. On some days the bike parking area was clean and on others the wall was full of graffiti. For the day that the wall was clean, 33% of the people threw away the note on the ground. 
+
+> [!question] Which day had more littering?
+> For the day that the wall had graffiti, 69% of the people threw the note on the ground.
+
 
 ___
