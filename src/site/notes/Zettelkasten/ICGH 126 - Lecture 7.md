@@ -74,7 +74,7 @@ Hard => More cheating
 - Cloè Sunglasses
 	- Two groups of people, one wearing real authentic Cloè, the other one wearing fake ones.
 	- Ask both group to perform to matrix task.
-	- The people with authentic Cloè cheated less and the people with the real one cheated more
+	- The people with authentic Cloè cheated less and the people with the fake one cheated more
 
 	People wearing authentic Cloè:
 	- Less cheating
