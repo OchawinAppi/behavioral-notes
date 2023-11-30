@@ -5,6 +5,8 @@
 2023-11-30 08:50
 
 Tags: #exam
+
+Source: [[Zettelkasten/ICGH126 - Behavioral Ethics\|ICGH126 - Behavioral Ethics]]
 # Behavioral Ethics Exam Notes
 
 ---
