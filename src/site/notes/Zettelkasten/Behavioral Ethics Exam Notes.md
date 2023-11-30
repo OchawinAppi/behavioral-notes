@@ -288,7 +288,7 @@ If you decide to steal something, the benefit is clear. The probability is impli
 
 ## 6.2 Drawing a line
 
-There is an implicit threshold which people would not go beyond when it comes to cheating, because at some point they are cheat *too much*.
+There is an implicit threshold which people would not go beyond when it comes to cheating, because at some point they are cheating *too much*.
 
 ```ad-example
 title: Example: Mom I want ice cream, oh wait her wallet is here :)
