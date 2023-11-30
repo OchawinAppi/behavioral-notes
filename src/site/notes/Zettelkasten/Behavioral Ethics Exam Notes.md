@@ -202,7 +202,7 @@ People gather/process information in a self-serving way and fail to see and/or o
 ```
 
 ___
-# 4. [[Zettelkasten/ICGH126 - Behavioral Ethics#Lecture 5 - See No Evil\|See No Evil]]
+# 4. See No Evil
 
 ```ad-tldr
 title: Key points
@@ -221,6 +221,7 @@ Think of the boiling frog syndrome.
 It's not illegal if I don't get caught.
 ```
 
+Read more [[Zettelkasten/ICGH126 - Behavioral Ethics#Lecture 5 - See No Evil\|here]].
 ___
 # 5. Moral Hypocrisy
 
@@ -305,5 +306,5 @@ It's because when we take 10 baht, it doesn't feel like we are stealing a signif
 ```
 
 Read more here: 
-	[[Zettelkasten/ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)\|ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)]]
-	[[Zettelkasten/ICGH 126 - Lecture 9#ICGH 126 - Forces Behind Dishonesty\|ICGH 126 - Lecture 9#ICGH 126 - Forces Behind Dishonesty]]
+	[[Zettelkasten/ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)\|Forces Behind Dishonesty (pt. 1)]]
+	[[Zettelkasten/ICGH 126 - Lecture 9#ICGH 126 - Forces Behind Dishonesty\|Forces Behind Dishonesty (pt. 2)]]
