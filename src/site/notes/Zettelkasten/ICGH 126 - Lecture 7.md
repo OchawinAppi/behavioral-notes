@@ -62,7 +62,6 @@ Afterwards,  participants were asked to rate themselves and once again everyone 
 > What is a good person? 
 > How do you know that a person is good?
 
-
 # Forces Behind Dishonesty (Cont.)
 ## Being Depleted
 - No x and z => V depletion => V Cheating
