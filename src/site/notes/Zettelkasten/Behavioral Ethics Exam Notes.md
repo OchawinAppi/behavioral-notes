@@ -99,3 +99,88 @@ This experiment was conducted in a public bike parking area. After people left t
 
 
 ___
+
+# 2. Social Pressures
+
+```ad-tldr
+title: Key points
+There are two main social pressures.
+
+1. [[Behavioral Ethics Exam Notes#2.1 Obedience To Authority|Obedience to authority]]: Under the influence of a figure of higher authority, people can be forced to act unethically.
+2. [[Behavioral Ethics Exam Notes#2.2 Conformity Bias| Conformity bias]]: People will act more/less ethically depending on the actions of others. Dishonesty is infectious.
+```
+
+## 2.1 Obedience To Authority
+
+Under the influence of someone with authority, people are more likely to act unethically if tasked.
+
+> [!example] Example: Unethical Orders
+> When you are asked to do something by a figure of authority, sometimes you just can't say no.
+> - Your boss tells you to cheat the records of sales.
+> - Your mother tells you to cash in a suspicious check.
+> - A researcher telling you (a participant) to electrocute an animal for the sake of their study.
+>   
+> As you can see the role of an authority may vary from context to context.
+> - Your mother.
+> - Your boss.
+> - etc.
+### 2.1.1 Drunk on Power
+
+Under the influence of power (the power of being an authority), people are more likely to abuse their power.
+
+> [!example] Example: The Stanford Prison Experiment
+> A group of students were split. Half were acting as prisoners and the other half were acting as guards. As the study progressed, the guards became increasingly sadistic and the prisoners became increasingly submissive.
+
+## 2.2 Conformity Bias
+
+People will behave more/less ethically depending on the action of others.
+
+> [!example] Example: Are these people just dumb? Or is it me?
+> 6 participants were asked to judge a series of images of lines and match them to a set of lengths. They were asked to shout out their answer. Five of the participants were confederates. The subject was placed at the end of the line so that they could hear the first five answers. All the actors were tasked to answer incorrectly on purpose.
+> 
+> In the first few rounds most participants did not yield, but after a few more most participants would conform to the group's incorrect answer, even if they know full well that it is wrong.
+> 
+> It was also shown that when given a partner who would answer correctly as well (go against the group), the subject would be able to muster the courage to answer correctly.
+
+### 2.2.1 Other people are doing it, why don't I
+
+ If you know that other people are doing something unethical, you are more likely to do it as well, because you can justify it by saying that other people do it.
+ 
+> [!example] Example: It's okay, other people do it too.
+> At a national park, tourists often took petrified wood as a souvenir back (they are not supposed to). To combat this, a sign was put up, reading "There has been a lot of pilfering, please refrain". This had the opposite effect and it increased the pilfering by 300%. This happened because now people know that others are doing it.
+> 
+> The sign was then later changed to "Collecting petrified wood is prohibited" and that reduced pilfering.
+
+
+### 2.2.2 In-Group vs Out-Group
+
+When people are in groups they are more likely to cater their ethical behavior to fit the group.
+
+> [!example] Splitting money and T-shirts
+> Students were split into two groups, wearing two different T-shirts. Money was given each student and they were asked to pair up with another person from the other group and decide how much money to give to the other person. A confederated was planted and was tasked to publicly declare that he was going to *"give nothing"* and *"take everything"*.
+> 
+> As a result, people who were in the same group as the confederate shared less money and people from the opposite group were less dishonest.
+### 2.2.3 Subtle Bonds
+
+Subtle bonding is like linking one person to another in some way. Like, having both of them be aware that they were born on the same date (even if it isn't true). If the person you have a bond with cheats, then you are more likely to cheat as well.
+
+> [!example] Example: My long lost brother is *that guy* who finishes first in the exam
+> Participants were take 20 math questions in 5 minutes then self report how much they got. After 1 minute, an actor who is part of a subtle bond formed before the exam would declare that they solved everything (which is impossible).
+> 
+> Note: the bond was formed by the having the participant answer a questionnaire and telling them something like "Oh! You were born in the same month as \<insert name here>\"
+> 
+> As a result, the person they formed the subtle bond with was more likely to cheat as well.
+
+### 2.2.4 Positive Conformity Bias
+
+Just like how conformity bias can influence you to do bad things, it can be used for good.
+### 2.2.5 Other people are doing it, why don't you?
+
+Knowing that others are doing something, then being questioned why *you* don't do it makes you more likely to do it.
+ 
+> [!example] Example: Use the stairs !
+> A sign was put up in a building saying "*Did you know? More than 90% of the time, people in this building uses the stairs instead of the elevator. Why not you?*". This decreased elevator usage by 46%.
+
+___
+
+# 3. Cognitive Errors
