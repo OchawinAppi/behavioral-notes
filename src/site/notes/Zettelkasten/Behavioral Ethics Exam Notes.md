@@ -243,3 +243,66 @@ title: Examples
 
 > [!question] What is a good person? How do you know that a person is good?
 > If a man loves his family, makes sacrifices for society, but cheats the company he works for, is he a bad person? Is a person good if they are bad for 55 years of their life but then good for the last 5? What about if they’re good for 55 years but bad for the last 5? Food for thought.
+
+___
+
+# 6. Forces Behind Dishonesty
+
+```ad-tldr
+title: Key points
+
+We can model why people cheat using the **Simple Model of Rational Crime (SMORC)**. However the model is pretty flawed.
+
+1. **Being depleted**
+Being mentally drained/exhausted causes people to be more likely to be dishonest.
+
+2. **Self Deception**
+People believe that their achievements which are obtained via cheating can be obtained even if they don't cheat. They believe that they are more capable than they actually are.
+
+3. **Creativity**
+These creative people can't be trusted!
+
+4. **Infection**
+When an individual's bad behavior infects others. Like one person perhaps cheats and causes everyone else to cheat as well.
+
+5. **Collaboration**
+When cheating benefits others, this causes people to cheat even more. This is probably because they can justify their own action.
+```
+
+Read more here: [[Zettelkasten/ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)\|ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)]]
+
+## 6.1 Simple Model of Rational Crime (SMORC)
+
+- Simple model of Rational Crime
+	- Benefit that one stands to gain from the crime.
+	- Probability of getting caught.
+	- Expected punishment if one is caught.
+
+The formula:
+> Benefit = (Prob.) Cost
+
+```ad-example
+title: Example: SMORC
+P(Benefit) > P (Cost) -> Cheat.
+P(Benefit) < P (Cost) -> No cheat.
+
+If you decide to steal something, the benefit is clear. The probability is implicitly 100%. Even though the cost is always greater than the benefit, the probability of getting caught is not 100%.
+```
+
+## 6.2 Drawing a line
+
+There is an implicit threshold which people would not go beyond when it comes to cheating, because at some point they are cheat *too much*.
+
+```ad-example
+title: Example: Mom I want ice cream, oh wait her wallet is here :)
+
+You, being a little brat that you are, desperately want icecream. However you are an umemployed bum and need mom to pay for you. But stonks, her wallet is right there!
+
+Now consider the following actions:
+- Taking 10 baht from your mother's purse.
+- Taking 5000 baht from your mother's purse.
+
+Which one is more acceptable? Why?
+
+It's because when we take 10 baht, it doesn't feel like we are stealing a significant amount, hell mom probably wouldn't even notice. However stealing 5000 baht is a big deal, now this is a real crime.
+```
