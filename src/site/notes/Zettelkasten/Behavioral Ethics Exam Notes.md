@@ -268,9 +268,6 @@ When an individual's bad behavior infects others. Like one person perhaps cheats
 5. **Collaboration**
 When cheating benefits others, this causes people to cheat even more. This is probably because they can justify their own action.
 ```
-
-Read more here: [[Zettelkasten/ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)\|ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)]]
-
 ## 6.1 Simple Model of Rational Crime (SMORC)
 
 - Simple model of Rational Crime
@@ -306,3 +303,7 @@ Which one is more acceptable? Why?
 
 It's because when we take 10 baht, it doesn't feel like we are stealing a significant amount, hell mom probably wouldn't even notice. However stealing 5000 baht is a big deal, now this is a real crime.
 ```
+
+Read more here: 
+	[[Zettelkasten/ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)\|ICGH 126 - Lecture 7#Forces Behind Dishonesty (Cont.)]]
+	[[Zettelkasten/ICGH 126 - Lecture 9#ICGH 126 - Forces Behind Dishonesty\|ICGH 126 - Lecture 9#ICGH 126 - Forces Behind Dishonesty]]
